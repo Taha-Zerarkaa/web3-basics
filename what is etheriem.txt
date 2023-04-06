@@ -1,0 +1,15 @@
+The Ethereum network is a decentralized, peer-to-peer network that allows for the creation and execution of smart contracts and decentralized applications (dApps). Here is an overview of how the Ethereum network works:
+
+Nodes: The Ethereum network consists of a large number of nodes (computers) that communicate with each other to maintain the network. These nodes run the Ethereum software and work together to validate transactions and execute smart contracts.
+
+Transactions: Transactions are messages sent between accounts on the Ethereum network. These transactions can be used to transfer Ether (the native cryptocurrency of the Ethereum network) or to interact with smart contracts.
+
+Mining: Transactions on the Ethereum network are processed and verified by miners. Miners are nodes that perform complex calculations to validate transactions and create new blocks on the blockchain. In return for their work, miners are rewarded with newly created Ether.
+
+Smart Contracts: Smart contracts are self-executing programs that run on the Ethereum network. They allow for the creation of decentralized applications and enable developers to write code that can be executed on a global network of computers.
+
+Gas: Gas is a measure of computational effort required to execute a transaction or smart contract on the Ethereum network. Each transaction or smart contract execution requires a certain amount of gas, which must be paid in Ether by the sender of the transaction. This ensures that the network is not overloaded with unnecessary or malicious code.
+
+Ethereum Virtual Machine (EVM): The Ethereum Virtual Machine is a runtime environment that executes smart contracts on the Ethereum network. It is a sandboxed environment that ensures that smart contracts run securely and independently of the operating system or hardware of the nodes that run them.
+
+Overall, the Ethereum network is a complex system that relies on a large number of nodes, miners, and developers to maintain and improve its functionality. Its decentralized nature ensures that it is resistant to censorship and provides a secure and transparent platform for the creation and execution of smart contracts and decentralized applications.

@@ -1,0 +1,15 @@
+A consensus algorithm is a process used to ensure that a group of participants reaches agreement on a particular decision or outcome. Consensus algorithms are commonly used in distributed computing systems, where multiple nodes or entities must agree on a particular state or transaction.
+
+There are several types of consensus algorithms, each with its own approach to reaching agreement
+
+Proof of Work (PoW) In PoW, participants compete to solve a complex mathematical puzzle in order to add a new block to the blockchain. This algorithm is used in Bitcoin and other cryptocurrencies.
+
+Proof of Stake (PoS) In PoS, participants are chosen to validate new transactions based on the amount of cryptocurrency they hold. This algorithm is used in Ethereum and other cryptocurrencies.
+
+Delegated Proof of Stake (DPoS) In DPoS, participants delegate their voting rights to a smaller group of delegates who are responsible for validating transactions. This algorithm is used in BitShares and other cryptocurrencies.
+
+Practical Byzantine Fault Tolerance (PBFT) In PBFT, participants are organized in a network of nodes that communicate with each other to reach agreement on the state of the network. This algorithm is used in Hyperledger Fabric and other distributed computing systems.
+
+Raft In Raft, participants elect a leader who is responsible for coordinating the state of the network. This algorithm is used in CockroachDB and other distributed computing systems.
+
+These are just a few examples of consensus algorithms. The choice of algorithm depends on the specific requirements of the system and the goals of the participants.

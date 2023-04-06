@@ -1,0 +1,9 @@
+A smart contract is not exactly a transaction, but rather a self-executing program that runs on a blockchain network, such as Ethereum.
+
+A transaction is an action that occurs on the blockchain network, such as transferring cryptocurrency from one address to another. Smart contracts are a way to automate and execute such transactions based on pre-defined rules and conditions written in the code of the contract.
+
+In simpler terms, a smart contract is like a digital contract that enforces certain rules and conditions automatically without the need for intermediaries. It is a piece of code that is stored on the blockchain and executed by nodes on the network.
+
+When a smart contract is deployed to the blockchain, it becomes part of the blockchain's immutable ledger and can be accessed by anyone on the network. Transactions can then be sent to the smart contract, which will execute the code according to the rules and conditions defined in the contract.
+
+So while transactions can interact with smart contracts on the blockchain network, a smart contract itself is not a transaction, but rather a program that can be executed as part of a transaction.

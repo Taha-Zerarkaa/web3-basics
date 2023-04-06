@@ -1,0 +1,9 @@
+Mainnet is the main Ethereum network where real Ether (ETH) transactions take place. It is the live and fully operational version of the Ethereum blockchain where all the nodes in the network are connected to each other and running the same consensus algorithm.
+
+Mainnet is where all the real-world transactions and smart contracts are executed, and where users can send and receive real Ether. It is the production environment of the Ethereum blockchain, where the actual value is transacted and recorded on the blockchain.
+
+On the Ethereum mainnet, the Ether cryptocurrency is used for payments, transaction fees, and smart contract executions. Transactions are validated and processed by miners, who receive rewards in the form of newly generated Ether for their work.
+
+Mainnet is different from testnets, which are separate Ethereum networks used for testing and development purposes. Testnets use their own cryptocurrency, which has no real-world value, and are used by developers to test new smart contracts and applications before deploying them on the mainnet.
+
+In summary, the Ethereum mainnet is the real and fully operational version of the Ethereum blockchain, where all the actual transactions and smart contracts take place, using real Ether as the currency.
