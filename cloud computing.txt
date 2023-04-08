@@ -1,0 +1,7 @@
+Cloud computing refers to the delivery of computing resources such as servers, storage, databases, software, and other services over the internet. In other words, cloud computing allows individuals and organizations to use computing resources on demand, without having to invest in expensive infrastructure or maintain it themselves.
+
+The cloud computing model is based on the concept of remote servers that are accessed over the internet. These servers can be located anywhere in the world and are managed by a cloud service provider, who is responsible for maintaining and updating the infrastructure.
+
+Cloud computing provides several benefits, including scalability, flexibility, cost-effectiveness, and high availability. It enables users to access computing resources as needed, allowing them to quickly and easily scale up or down depending on their needs. It also eliminates the need for expensive hardware and infrastructure, as users can simply pay for the resources they use.
+
+There are several types of cloud computing services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). IaaS provides users with access to computing infrastructure such as virtual machines, storage, and networking, while PaaS provides a platform for developing, testing, and deploying applications. SaaS provides access to software applications that are hosted in the cloud and accessed over the internet.

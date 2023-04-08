@@ -1,0 +1,13 @@
+hardhat-deploy is a plugin for the Hardhat development environment for Ethereum smart contracts. It provides a suite of tools and utilities for deploying and managing smart contract deployments, making it easier to manage the deployment process for complex decentralized applications.
+
+Some of the features of hardhat-deploy include:
+
+Simple deployment scripts: hardhat-deploy provides a simple and intuitive syntax for defining and deploying smart contracts, making it easier for developers to manage complex deployment processes.
+
+Network management: The plugin provides tools for managing multiple Ethereum networks, including local development networks and testnets like Ropsten and Rinkeby.
+
+Contract linking: hardhat-deploy allows developers to link smart contracts together, making it easier to manage dependencies between contracts and deploy them in the correct order.
+
+Task automation: The plugin provides a number of tasks for automating common deployment and management tasks, such as deploying contracts, verifying contract source code on Etherscan, and managing contract upgrades.
+
+Overall, hardhat-deploy is a powerful tool for Ethereum developers who are looking to simplify the deployment and management of smart contract applications.

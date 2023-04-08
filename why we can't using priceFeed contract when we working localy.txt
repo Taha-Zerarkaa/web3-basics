@@ -1,0 +1,11 @@
+It's possible to use a price feed contract locally, but it would depend on the specific contract and how it is implemented. However, there are some reasons why it may not be practical or useful to do so:
+
+The purpose of a price feed contract is to obtain real-time data from external sources, such as cryptocurrency exchanges or financial markets. When running locally, there may not be a need for real-time data or there may not be any external sources available.
+
+Price feed contracts are often designed to work in a decentralized environment, where multiple nodes contribute data to the contract. When running locally, there may not be any other nodes to contribute data, so the contract may not function as intended.
+
+Depending on the specific price feed contract and how it is designed, it may require access to certain external APIs or data sources that may not be available when running locally. In this case, the contract would not be able to function properly without those external resources.
+
+Overall, while it's technically possible to use a price feed contract locally, it may not be practical or useful in many cases. It's important to consider the specific requirements and limitations of the contract in question before attempting to use it locally.
+
+soo we use mocking ...>
