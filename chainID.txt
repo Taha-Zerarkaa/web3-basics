@@ -1,0 +1,5 @@
+chainId is a property of the Ethereum blockchain that represents the unique identifier of a specific blockchain network. In the context of Ethereum, chainId is a 256-bit unsigned integer that is used to distinguish between different Ethereum networks, such as the mainnet, testnets, and private networks.
+
+Each Ethereum network has a unique chainId, which is used by clients to verify the network they are connected to and to ensure that transactions are only broadcasted to the intended network. When a transaction is signed, the chainId is included in the transaction data to ensure that the transaction can only be executed on the correct network.
+
+In addition, chainId is used by developers to deploy smart contracts and to interact with the Ethereum network programmatically. The chainId value can be retrieved using Ethereum client software or by querying a blockchain explorer.

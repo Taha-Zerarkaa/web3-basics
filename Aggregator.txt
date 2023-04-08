@@ -1,0 +1,5 @@
+In Web3, an aggregator is a decentralized service or platform that gathers and aggregates data from multiple sources on the blockchain, such as decentralized exchanges (DEXs) and liquidity pools, and presents it in a unified format to users.
+
+Aggregators play a key role in the decentralized finance (DeFi) ecosystem, as they provide users with a comprehensive overview of the best prices and liquidity across multiple DEXs, enabling them to make informed decisions when trading cryptocurrencies.
+
+Aggregators typically use smart contracts to execute trades on behalf of users, and may charge a fee for their services. Some popular aggregators in the Web3 space include 1inch, Matcha, and Paraswap.

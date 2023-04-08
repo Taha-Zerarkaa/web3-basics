@@ -1,0 +1,7 @@
+The AggregatorV3Interface is an interface for a price feed contract in the Ethereum blockchain that provides a standardized way to retrieve price data from external sources. The interface includes the following functions:
+
+function latestRoundData() external view returns (uint80 roundId, int256 answer, uint256 startedAt, uint256 updatedAt, uint80 answeredInRound): This function returns the latest price data from the external source. It returns the round ID, the price data as an integer, the timestamp when the round was started, the timestamp when the round was updated, and the round ID when the price data was last updated.
+
+function getRoundData(uint80 _roundId) external view returns (uint80 roundId, int256 answer, uint256 startedAt, uint256 updatedAt, uint80 answeredInRound): This function returns the price data for a specific round ID. It takes a round ID as input and returns the same data as the latestRoundData() function for the specified round.
+
+The AggregatorV3Interface is commonly used in decentralized applications that require access to real-time price data, such as decentralized exchanges, prediction markets, and other financial applications. By using a standardized interface, developers can easily integrate price feeds from different sources without needing to build custom integrations for each individual source.
