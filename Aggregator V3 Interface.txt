@@ -1,0 +1,1 @@
+The AggregatorV3Interface is a contract from the Chainlink library that defines a standard interface for getting price data from decentralized oracles. This can be useful for building decentralized applications that require real-time price feeds, such as decentralized exchanges or prediction markets.
