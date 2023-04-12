@@ -1,0 +1,19 @@
+1 / 2
+
+Price data aggregators are platforms or services that collect and provide data on the prices of various assets or financial instruments from multiple sources. These sources can include exchanges, trading platforms, brokers, and other financial data providers.
+
+Price data aggregators typically collect and organize this data into a single, easy-to-use platform, providing traders and investors with real-time and historical price data for a wide range of assets, such as stocks, cryptocurrencies, commodities, and forex.
+
+Some of the most popular price data aggregators include:
+
+CoinMarketCap - a platform that provides real-time and historical data on the prices, market capitalizations, trading volumes, and other metrics for cryptocurrencies.
+
+TradingView - a charting platform that provides real-time data on a wide range of financial instruments, including stocks, forex, and cryptocurrencies.
+
+Bloomberg Terminal - a professional platform used by financial institutions and traders that provides real-time market data, news, and analytics on a wide range of assets.
+
+Yahoo Finance - a platform that provides real-time and historical data on the prices, charts, news, and other metrics for stocks, cryptocurrencies, and other financial instruments.
+
+CoinGecko - a platform that provides real-time and historical data on the prices, market capitalizations, trading volumes, and other metrics for cryptocurrencies.
+
+These price data aggregators are essential tools for traders and investors, allowing them to make informed decisions based on real-time and historical market data.
